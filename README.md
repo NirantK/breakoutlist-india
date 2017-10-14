@@ -2,15 +2,19 @@
 ```
 What company should I join?
 
-“If you join a company, my general advice is to join a company on a breakout trajectory.”
+“If you join a company, my general advice is 
+to join a company on a breakout trajectory.”
 
 — Sam Altman, President at Y Combinator
 ```
+
 ### Why? 
 
-The Original [Breakout List](https://breakoutlist.com/) has been used by thousands of engineers to identify great companies to join.
+The Original [Breakout List](https://breakoutlist.com/)-US has been used by thousands of engineers to identify great companies to join.
 
-It focusses on US based companies and not all great engineers can move to United States. We've curated high tech companies, Indian or not, but doing software engineering in India.  
+It focusses on United States based companies and not all great engineers can move there.  Thanks to Sir Obama and Trump, lot of good engineering companies have opened Indian offices recently or started taking Indian markets more seriously.
+
+We've curated some of these high tech companies, Indian or not, but doing software engineering in India.  
 
 ### [Career Notes for Ambitious Engineers and Designers](https://breakoutcareers.com/)
 
@@ -18,8 +22,7 @@ It focusses on US based companies and not all great engineers can move to United
 
 | Name        | Notes | Starting Pay (lakhs per annum, CTC) | Product | Stage         | Location |
 | :---:       | :---: | :---:   | :---:   | :---:         | :---:    |
-| Uber 
-![Uber](https://breakoutlist.com/assets/logos/uber-logo.png "Uber India") | Campus Hires from top colleges, fast growing team, 10/10 for growth | 10+ | Car Rides | Late     | Bengaluru, KA |
+| ![Uber](https://breakoutlist.com/assets/logos/uber-logo.png "Uber India") | Campus Hires from top colleges, fast growing team, 10/10 for growth | 10+ | Car Rides | Late     | Bengaluru, KA |
 | ![GoJek](https://imgee.s3.amazonaws.com/imgee/638b26370a794db38dfef92fa2bfe60f.png)       | Young, new office in India | Unknown | Car, Bike Rides in East Asia | Late     | Bengaluru, KA |
 | ![Nutanix](https://www.burwood.com/images/partner_logos/Nutanix-Logo-500.jpg)| Hires from top colleges, fast growing team | 20+ | Cloud Platform | Mid-to-late     | Bengaluru, KA |
 | ![Qubole](https://d0.awsstatic.com/logos/partners/qubole%20logo.png)        | Campus Hires from top colleges, ex-Facebook co-founders | 10+ | Cloud Data Platform | Late     | Bengaluru, KA |
@@ -38,6 +41,8 @@ It focusses on US based companies and not all great engineers can move to United
 | Flipkart      | Slow growing, reduced innovation compared to earlier years | 27 | ecommerce | Late | Bengaluru, KA |
 | Goldman Sachs     | likes to hire from top college | 30+ | banking | Public co. | Bengaluru, KA |
 | VISA     | likes to hire from top colleges | 20+ | payments, transation authentication | Public co. | Bengaluru, KA |
+| Microsoft IDC   | hires the best from several colleges, stable engineering teams | 15+ | windows, office, azure | Public co. | Hyderabad |
+
 
 ## Exciting Non-profits that I have heard about
 
