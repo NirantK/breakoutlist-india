@@ -22,19 +22,19 @@ We've curated some of these high tech companies, Indian or not, but doing softwa
 
 | Name        | Notes | Starting Pay (lakhs per annum, CTC) | Product | Stage         | Location |
 | :---:       | :---: | :---:   | :---:   | :---:         | :---:    |
-| ![Mad Street Den](https://imgee.s3.amazonaws.com/imgee/0bfb02e0a98c4c20a291b400c207f372.png) | strong growth, well funded, one fo the few companies to actually do AI | -- | Computer Vision for fashion under the brand [vue.ai](www.vue.ai) | Early | Chennai, TN |
-| ![Uber](https://breakoutlist.com/assets/logos/uber-logo.png "Uber India") | Campus Hires from top colleges, fast growing team, 10/10 for growth | 10+ | Car Rides | Late     | Bengaluru, KA |
-| ![GoJek](https://imgee.s3.amazonaws.com/imgee/638b26370a794db38dfef92fa2bfe60f.png) | Young, new office in India | Unknown | Car, Bike Rides in East Asia | Late     | Bengaluru, KA |
-| ![Nutanix](https://www.burwood.com/images/partner_logos/Nutanix-Logo-500.jpg) | Hires from top colleges, fast growing team | 20+ | Cloud Platform | Mid-to-late     | Bengaluru, KA |
-| ![Qubole](https://d0.awsstatic.com/logos/partners/qubole%20logo.png)        | Campus Hires from top colleges, ex-Facebook co-founders | 10+ | Cloud Data Platform | Late     | Bengaluru, KA |
-| ![SocialCops](https://500.co/wp-content/uploads/2015/04/logo_sc.png)        | Data intelligence, socially motivated. Government, Enterprises are main customers | 7+ | Apps to collect data, visualization platforms | Mid-to-late     | Delhi, NCR |
-| ![PayTM](https://upload.wikimedia.org/wikipedia/commons/4/42/Paytm_logo.png)      | Among India's most well known brands; building their Data Science teams | 10+ | ecommerce, payments, bank  | Mid | Bengaluru, KA |
-| ![Zomato](https://media.licdn.com/mpr/mpr/shrink_200_100/AAEAAQAAAAAAAAdxAAAAJGJiNmE5MGM4LWEzOTgtNDA5MC1hNTRlLTAxOGM0NTFiMTc0OA.png "Zomato")    | Unknown | Unknown | food menu, delivery, restaurant booking | Late | NCR |
-| ![Freshworks Inc.](https://pbs.twimg.com/profile_images/872032496707289088/N_Vnszyk.jpg "Freshworks Inc")    | India's most valuable, and among the fastest growing SaaS companies; strong growth | -- | -- | Late | Chennai, TN |
-| ![Zoho](https://www.zoho.com/images/zoho-download.png "Zoho")    | Among the fastest growing SaaS companies; strong growth | -- | Enterprise Work Apps | Late | Chennai, TN |
-| ![Belong.co](https://belong.co/static/images/logo.b83ea10bc89b.png "Belong.co")    | With around $15M in funding, one of the fastest emerging players doing AI for Hiring, SaaS companies; strong growth | 8-10 | AI for Hiring| Early | Bengaluru, KA |
-| ![ShareChat](https://lh3.googleusercontent.com/thDu1Z0Wf_JZSzq7i3iyw3av5T54KQMO3uSH_p5H1Pc92Njfn1T8sEP5_wPijVbWog=w300 "Sharechat")    | Among the fastest growing social network companies in India; strong growth | -- | Social Network in Regional Languages | Early, Series B | Bengaluru, KA |
-| ![Niki.ai](https://d1qb2nb5cznatu.cloudfront.net/startups/i/728423-c4b43d84a2f4733555fed9de5ca1194a-medium_jpg.jpg "Niki AI")    | Emerging chatbot company for enterprise, presuambly does some NLP/ML | Unknown | Chatbots for recharge etc. | Early | Bengaluru, KA |
+| ![Mad Street Den](https://imgee.s3.amazonaws.com/imgee/0bfb02e0a98c4c20a291b400c207f372.png) Mad Street Den | strong growth, well funded, one fo the few companies to actually do AI | -- | Computer Vision for fashion under the brand [vue.ai](www.vue.ai) | Early | Chennai, TN |
+| ![Uber](https://breakoutlist.com/assets/logos/uber-logo.png "Uber India") Uber| Campus Hires from top colleges, fast growing team, 10/10 for growth | 10+ | Car Rides | Late     | Bengaluru, KA |
+| ![GoJek](https://imgee.s3.amazonaws.com/imgee/638b26370a794db38dfef92fa2bfe60f.png) GoJek| Young, new office in India | Unknown | Car, Bike Rides in East Asia | Late     | Bengaluru, KA |
+| ![Nutanix](https://www.burwood.com/images/partner_logos/Nutanix-Logo-500.jpg) Nutanix| Hires from top colleges, fast growing team | 20+ | Cloud Platform | Mid-to-late     | Bengaluru, KA |
+| ![Qubole](https://d0.awsstatic.com/logos/partners/qubole%20logo.png) Qubole | Campus Hires from top colleges, ex-Facebook co-founders | 10+ | Cloud Data Platform | Late     | Bengaluru, KA |
+| ![SocialCops](https://500.co/wp-content/uploads/2015/04/logo_sc.png) SocialCops | Data intelligence, socially motivated. Government, Enterprises are main customers | 7+ | Apps to collect data, visualization platforms | Mid-to-late     | Delhi, NCR |
+| ![PayTM](https://upload.wikimedia.org/wikipedia/commons/4/42/Paytm_logo.png) PayTM | Among India's most well known brands; building their Data Science teams | 10+ | ecommerce, payments, bank  | Mid | Bengaluru, KA |
+| ![Zomato](https://media.licdn.com/mpr/mpr/shrink_200_100/AAEAAQAAAAAAAAdxAAAAJGJiNmE5MGM4LWEzOTgtNDA5MC1hNTRlLTAxOGM0NTFiMTc0OA.png "Zomato") Zomato   | Unknown | Unknown | food menu, delivery, restaurant booking | Late | NCR |
+| ![Freshworks Inc.](https://pbs.twimg.com/profile_images/872032496707289088/N_Vnszyk.jpg "Freshworks Inc") Freshworks | India's most valuable, and among the fastest growing SaaS companies; strong growth | -- | -- | Late | Chennai, TN |
+| ![Zoho](https://www.zoho.com/images/zoho-download.png "Zoho") Zoho   | Among the fastest growing SaaS companies; strong growth | -- | Enterprise Work Apps | Late | Chennai, TN |
+| ![Belong.co](https://belong.co/static/images/logo.b83ea10bc89b.png "Belong.co") Belong.co   | With around $15M in funding, one of the fastest emerging players doing AI for Hiring, SaaS companies; strong growth | 8-10 | AI for Hiring| Early | Bengaluru, KA |
+| ![ShareChat](https://lh3.googleusercontent.com/thDu1Z0Wf_JZSzq7i3iyw3av5T54KQMO3uSH_p5H1Pc92Njfn1T8sEP5_wPijVbWog=w300 "Sharechat") Sharechat   | Among the fastest growing social network companies in India; strong growth | -- | Social Network in Regional Languages | Early, Series B | Bengaluru, KA |
+| ![Niki.ai](https://d1qb2nb5cznatu.cloudfront.net/startups/i/728423-c4b43d84a2f4733555fed9de5ca1194a-medium_jpg.jpg "Niki AI") Niki.ai   | Emerging chatbot company for enterprise, presuambly does some NLP/ML | Unknown | Chatbots for recharge etc. | Early | Bengaluru, KA |
 
 ## High Paying Dev Jobs
 
