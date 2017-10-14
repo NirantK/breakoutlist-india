@@ -14,6 +14,7 @@ But it focusses on US based companies and not all great engineers can move to US
 ## [Career Notes for Ambitious Engineers and Designers](https://breakoutcareers.com/)
 
 ## Foreign Engineering Offices in India
+
 | Name        | Notes | Product | Stage         | Location |
 | :---:       | :---: | :---:   | :---:         | :---:    |
 | Uber        | Campus Hires from top colleges; Pays 10+ LPA CTC | Car Rides | Late     | Bengaluru, KA |
