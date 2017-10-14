@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/NirantK/breakoutlist-india/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Breakout List - India
 ```
+What company should I join?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+“If you join a company, my general advice is to join a company on a breakout trajectory.”
 
-### Jekyll Themes
+— Sam Altman, President at Y Combinator
+```
+### Why? 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NirantK/breakoutlist-india/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The Original [Breakout List](https://breakoutlist.com/) has been used by thousands of engineers to identify great companies to join.
+But it focusses on US based companies and not all great engineers can move to US. We talk about high tech companies, Indian or not, but doing engineering in India.  
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having something to say? Say it [@NirantK on Twitter](https://twitter.com/@nirantk) or [email](nirant.kasliwal+breakout@gmail.com) and I'll hear you. 
