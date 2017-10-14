@@ -32,7 +32,9 @@ We've curated some of these high tech companies, Indian or not, but doing softwa
 | ![Zomato](https://media.licdn.com/mpr/mpr/shrink_200_100/AAEAAQAAAAAAAAdxAAAAJGJiNmE5MGM4LWEzOTgtNDA5MC1hNTRlLTAxOGM0NTFiMTc0OA.png "Zomato")    | Unknown | Unknown | food menu, delivery, restaurant booking | Late | NCR |
 | ![Freshworks Inc.](https://pbs.twimg.com/profile_images/872032496707289088/N_Vnszyk.jpg "Freshworks Inc")    | India's most valuable, and among the fastest growing SaaS companies; strong growth | -- | -- | Late | Chennai, TN |
 | ![Zoho](https://www.zoho.com/images/zoho-download.png "Zoho")    | Among the fastest growing SaaS companies; strong growth | -- | Enterprise Work Apps | Late | Chennai, TN |
-| ![Belong.co](https://belong.co/static/images/logo.b83ea10bc89b.png "Belong.co")    | With around $15M in funding, one of the fastest emerging players doing AI for Hiring, SaaS companies; strong growth | 8-10 | AI for Hiring| Early | Chennai, TN |
+| ![Belong.co](https://belong.co/static/images/logo.b83ea10bc89b.png "Belong.co")    | With around $15M in funding, one of the fastest emerging players doing AI for Hiring, SaaS companies; strong growth | 8-10 | AI for Hiring| Early | Bengaluru, KA |
+| ![ShareChat](https://lh3.googleusercontent.com/thDu1Z0Wf_JZSzq7i3iyw3av5T54KQMO3uSH_p5H1Pc92Njfn1T8sEP5_wPijVbWog=w300 "Sharechat")    | Among the fastest growing social network companies in India; strong growth | -- | Social Network in Regional Languages | Early, Series B | Bengaluru, KA |
+| ![Niki.ai](https://d1qb2nb5cznatu.cloudfront.net/startups/i/728423-c4b43d84a2f4733555fed9de5ca1194a-medium_jpg.jpg "Niki AI")    | Emerging chatbot company for enterprise, presuambly does some NLP/ML | Unknown | Chatbots for recharge etc. | Early | Bengaluru, KA |
 
 ## High Paying Dev Jobs
 
