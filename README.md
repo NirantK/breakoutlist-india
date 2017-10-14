@@ -13,7 +13,7 @@ But it focusses on US based companies and not all great engineers can move to US
 
 ## [Career Notes for Ambitious Engineers and Designers](https://breakoutcareers.com/)
 
-## Amazing Teams in India
+## New/Growing Teams in India
 
 | Name        | Notes | Starting Pay (lakhs per annum, CTC) | Product | Stage         | Location |
 | :---:       | :---: | :---:   | :---:   | :---:         | :---:    |
@@ -22,9 +22,20 @@ But it focusses on US based companies and not all great engineers can move to US
 | Nutanix        | Campus Hires from top colleges, fast growing team | 20+ | Cloud Platform | Mid-to-late     | Bengaluru, KA |
 | Qubole        | Campus Hires from top colleges, ex-Facebook co-founders | 10+ | Cloud Data Platform | Late     | Bengaluru, KA |
 | SocialCops        | Data intelligence, socially motivated. Government, Enterprises are main customers | 7+ | Apps to collect data, visualization platforms | Mid-to-late     | Delhi, NCR |
-| Amazon      | AWS, Prime are best teams to work for, opportunity to grow quickly in enterprise | 27 | ecommerce | Public co. | Bengaluru, KA |
 | PayTM      | Among India's most well known brands; building their Data Science teams | 10+ | ecommerce, payments, bank  | Mid | Bengaluru, KA |
 | Zomato    | Unknown | Unknown | food menu, delivery, restaurant booking | Late | NCR |
+
+## High Paying Dev Jobs
+
+| Name        | Notes | Starting Pay (lakhs per annum, CTC) | Product | Stage         | Location |
+| :---:       | :---: | :---:   | :---:   | :---:         | :---:    |
+| Amazon      | AWS, Prime are best teams to work for, opportunity to grow quickly, some later move to Seattle, US | 27 | ecommerce, cloud | Public co. | Bengaluru, KA |
+| Tower Research Capital | Hires the best of the best | 30+ | Financial Services, Trading | Late | Gurgaon, NCR | 
+| Directi - Platform Engineer | Likes competitive programmers | 25+ | Hosting, Infra, Web | Late, started in 1998 | Mumbai, MH |
+| Samsung Research, Bengaluru - Research roles | Campus Hires from top colleges, worse work than Samsung Korea, better than Delhi, Noida | 25 | Electronics, Machine Learning, Software Engineering | Public co.     | Bengaluru, KA |
+| Flipkart      | Slow growing, reduced innovation compared to earlier years | 27 | ecommerce | Late | Bengaluru, KA |
+| Goldman Sachs     | likes to hire from top college | 30+ | banking | Public co. | Bengaluru, KA |
+| VISA     | likes to hire from top colleges | 20+ | payments, transation authentication | Public co. | Bengaluru, KA |
 
 
 ### Say Something!
