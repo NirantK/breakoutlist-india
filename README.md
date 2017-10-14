@@ -9,21 +9,23 @@ What company should I join?
 ### Why? 
 
 The Original [Breakout List](https://breakoutlist.com/) has been used by thousands of engineers to identify great companies to join.
-But it focusses on US based companies and not all great engineers can move to US. We talk about high tech companies, Indian or not, but doing engineering in India.  
 
-## [Career Notes for Ambitious Engineers and Designers](https://breakoutcareers.com/)
+It focusses on US based companies and not all great engineers can move to United States. We've curated high tech companies, Indian or not, but doing software engineering in India.  
 
-## New/Growing Teams in India
+### [Career Notes for Ambitious Engineers and Designers](https://breakoutcareers.com/)
+
+# Emerging Breakout Teams in India
 
 | Name        | Notes | Starting Pay (lakhs per annum, CTC) | Product | Stage         | Location |
 | :---:       | :---: | :---:   | :---:   | :---:         | :---:    |
-| Uber        | Campus Hires from top colleges, fast growing team, 10/10 for growth | 10+ | Car Rides | Late     | Bengaluru, KA |
-| GoJek       | Young, new office in India | Unknown | Car, Bike Rides in East Asia | Late     | Bengaluru, KA |
-| Nutanix        | Campus Hires from top colleges, fast growing team | 20+ | Cloud Platform | Mid-to-late     | Bengaluru, KA |
-| Qubole        | Campus Hires from top colleges, ex-Facebook co-founders | 10+ | Cloud Data Platform | Late     | Bengaluru, KA |
-| SocialCops        | Data intelligence, socially motivated. Government, Enterprises are main customers | 7+ | Apps to collect data, visualization platforms | Mid-to-late     | Delhi, NCR |
-| PayTM      | Among India's most well known brands; building their Data Science teams | 10+ | ecommerce, payments, bank  | Mid | Bengaluru, KA |
-| Zomato    | Unknown | Unknown | food menu, delivery, restaurant booking | Late | NCR |
+| Uber 
+![Uber](https://breakoutlist.com/assets/logos/uber-logo.png "Uber India") | Campus Hires from top colleges, fast growing team, 10/10 for growth | 10+ | Car Rides | Late     | Bengaluru, KA |
+| ![GoJek](https://imgee.s3.amazonaws.com/imgee/638b26370a794db38dfef92fa2bfe60f.png)       | Young, new office in India | Unknown | Car, Bike Rides in East Asia | Late     | Bengaluru, KA |
+| ![Nutanix](https://www.burwood.com/images/partner_logos/Nutanix-Logo-500.jpg)| Hires from top colleges, fast growing team | 20+ | Cloud Platform | Mid-to-late     | Bengaluru, KA |
+| ![Qubole](https://d0.awsstatic.com/logos/partners/qubole%20logo.png)        | Campus Hires from top colleges, ex-Facebook co-founders | 10+ | Cloud Data Platform | Late     | Bengaluru, KA |
+| ![SocialCops](https://500.co/wp-content/uploads/2015/04/logo_sc.png)        | Data intelligence, socially motivated. Government, Enterprises are main customers | 7+ | Apps to collect data, visualization platforms | Mid-to-late     | Delhi, NCR |
+| ![PayTM](https://upload.wikimedia.org/wikipedia/commons/4/42/Paytm_logo.png)      | Among India's most well known brands; building their Data Science teams | 10+ | ecommerce, payments, bank  | Mid | Bengaluru, KA |
+| ![Zomato](https://media.licdn.com/mpr/mpr/shrink_200_100/AAEAAQAAAAAAAAdxAAAAJGJiNmE5MGM4LWEzOTgtNDA5MC1hNTRlLTAxOGM0NTFiMTc0OA.png "Zomato")    | Unknown | Unknown | food menu, delivery, restaurant booking | Late | NCR |
 
 ## High Paying Dev Jobs
 
@@ -36,6 +38,13 @@ But it focusses on US based companies and not all great engineers can move to US
 | Flipkart      | Slow growing, reduced innovation compared to earlier years | 27 | ecommerce | Late | Bengaluru, KA |
 | Goldman Sachs     | likes to hire from top college | 30+ | banking | Public co. | Bengaluru, KA |
 | VISA     | likes to hire from top colleges | 20+ | payments, transation authentication | Public co. | Bengaluru, KA |
+
+## Exciting Non-profits that I have heard about
+
+| Name        | Notes | Cause | Approach | Location |
+| :---:       | :---: | :---: | :---:    | :---:    |
+
+
 
 
 ### Say Something!
