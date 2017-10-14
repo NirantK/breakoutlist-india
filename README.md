@@ -13,12 +13,16 @@ But it focusses on US based companies and not all great engineers can move to US
 
 ## [Career Notes for Ambitious Engineers and Designers](https://breakoutcareers.com/)
 
-## Foreign Engineering Offices in India
+## Amazing Teams in India
 
-| Name        | Notes | Product | Stage         | Location |
-| :---:       | :---: | :---:   | :---:         | :---:    |
-| Uber        | Campus Hires from top colleges; Pays 10+ LPA CTC | Car Rides | Late     | Bengaluru, KA |
-| Amazon      | Starting pay at 25+ LPA CTC; AWS, Prime are best teams to work for | ecommerce | Late     | Bengaluru, KA |
+| Name        | Notes | Starting Pay (lakhs per annum, CTC) | Product | Stage         | Location |
+| :---:       | :---: | :---:   | :---:   | :---:         | :---:    |
+| Uber        | Campus Hires from top colleges, fast growing team, 10/10 for growth | 10+ | Car Rides | Late     | Bengaluru, KA |
+| GoJek       | Young, new office in India | Unknown | Car, Bike Rides in East Asia | Late     | Bengaluru, KA |
+| Amazon      | AWS, Prime are best teams to work for, opportunity to grow quickly in enterprise | 27 | ecommerce | Late     | Bengaluru, KA |
+| Nutanix        | Campus Hires from top colleges, fast growing team | 20+ | Cloud Platform | Mid-to-late     | Bengaluru, KA |
+| Qubole        | Campus Hires from top colleges, ex-Facebook co-founders | 10+ | Cloud Data Platform | Late     | Bengaluru, KA |
+
 
 
 ### Say Something!
