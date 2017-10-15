@@ -38,6 +38,8 @@ We've curated some of these high tech companies, Indian or not, but doing softwa
 | ![Postman](http://blog.getpostman.com/wp-content/uploads/2014/07/logo.png "Postman") Postman   | strong growth | Unknown | developer tools; API Development environment | Early | Bengaluru, KA|
 | ![Helpshift](https://upload.wikimedia.org/wikipedia/en/b/b4/Helpshift_logo.png "Helpshift SDK") Helpshift | NA | Unknown | customer support platform, powerful SDK | -- | Bengaluru, KA |
 | ![HasGeek](https://hasgeek.com/_baseframe/img/logo-large.png "HasGeek") HasGeek | NA | Unknown | creates discussion spaces for geeks, organizes events and conferences | Early | Bengaluru, KA |
+| ![Udaan](https://udaan.com/images/udaan.png "Udaan") Udaan.com | ex-Flipkart cofounders, $10M in fundraise | Unknown | marketplace for traders, wholesalers, and manufacturers | Early | Bengaluru, KA |
+| ![cult fit](https://d3pzq99hz695o4.cloudfront.net/sitespecific/in/stores/web/f2accbf8e4484b2d55f3b652ae4f7635/cultfit-logo-large.jpg "cult fit") cure.fit | ex-Flipkart cofounders, $15M in fundraise, rave of the town | Unknown | subscription based health and fitness programs | Early | Bengaluru, KA |
 
 ## High Paying Dev Jobs
 
