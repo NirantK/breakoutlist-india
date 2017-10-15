@@ -57,7 +57,7 @@ We've curated some of these high tech companies, Indian or not, but doing softwa
 
 | Name        | Notes | Cause | Approach | Location |
 | :---:       | :---: | :---: | :---:    | :---:    |
-
+| [Udhyam Learning Foundation](https://www.udhyam.org/) | focused on entrenpreneurial mindset, extremely well-established team | learning, mindset | classroom, bootcamp style program | Bengaluru, KA | 
 
 
 
