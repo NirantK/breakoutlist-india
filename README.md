@@ -31,9 +31,9 @@ Each ₹ is a range of 10 lakhs, so ₹₹ means 10-20 lakhs per annum and ₹�
 | ![Qubole](https://d0.awsstatic.com/logos/partners/qubole%20logo.png) Qubole | Campus Hires from top colleges, ex-Facebook co-founders | 10+ | Cloud Data Platform | Late     | Bengaluru, KA |
 | ![SocialCops](https://500.co/wp-content/uploads/2015/04/logo_sc.png) SocialCops | Data intelligence, socially motivated. Government, Enterprises are main customers | 7+ | Apps to collect data, visualization platforms | Mid-to-late     | Delhi, NCR |
 | ![PayTM](https://upload.wikimedia.org/wikipedia/commons/4/42/Paytm_logo.png) PayTM | Among India's most well known brands; building their Data Science teams | ₹₹ | ecommerce, payments, bank  | Mid | Bengaluru, KA |
-| ![Zomato](https://media.licdn.com/mpr/mpr/shrink_200_100/AAEAAQAAAAAAAAdxAAAAJGJiNmE5MGM4LWEzOTgtNDA5MC1hNTRlLTAxOGM0NTFiMTc0OA.png "Zomato") Zomato   | ₹ | Unknown | food menu, delivery, restaurant booking | Late | NCR |
+| ![Zomato](https://media.licdn.com/mpr/mpr/shrink_200_100/AAEAAQAAAAAAAAdxAAAAJGJiNmE5MGM4LWEzOTgtNDA5MC1hNTRlLTAxOGM0NTFiMTc0OA.png "Zomato") Zomato   | India's international restaurant app, answer to Yelp, still growing, losing ground to Maps in some ways | ₹ | food menu, delivery, restaurant booking | Late | NCR |
 | ![Freshworks Inc.](https://pbs.twimg.com/profile_images/872032496707289088/N_Vnszyk.jpg "Freshworks Inc") Freshworks | India's most valuable, and among the fastest growing SaaS companies; strong growth | ₹ | -- | Late | Chennai, TN |
-| ![Zoho](https://www.zoho.com/images/zoho-download.png "Zoho") Zoho   | Among the fastest growing SaaS companies; strong growth | -- | Enterprise Work Apps | Late | Chennai, TN |
+| ![Zoho](https://www.zoho.com/images/zoho-download.png "Zoho") Zoho   | Among the fastest growing SaaS companies; strong growth | ₹ | Enterprise Work Apps | Late | Chennai, TN |
 | ![Belong.co](https://belong.co/static/images/logo.b83ea10bc89b.png "Belong.co") Belong.co   | With around $15M in funding, one of the fastest emerging players doing AI for Hiring, SaaS companies; strong growth | 8-10 | AI for Hiring| Early | Bengaluru, KA |
 | ![ShareChat](https://lh3.googleusercontent.com/thDu1Z0Wf_JZSzq7i3iyw3av5T54KQMO3uSH_p5H1Pc92Njfn1T8sEP5_wPijVbWog=w300 "Sharechat") Sharechat   | Among the fastest growing social network companies in India; strong growth | ₹ | Social Network in Regional Languages | Early, Series B | Bengaluru, KA |
 | ![Niki.ai](https://d1qb2nb5cznatu.cloudfront.net/startups/i/728423-c4b43d84a2f4733555fed9de5ca1194a-medium_jpg.jpg "Niki AI") Niki.ai   | Emerging chatbot company for enterprise, presuambly does some NLP/ML | Unknown | Chatbots for recharge etc. | Early | Bengaluru, KA|
@@ -50,11 +50,11 @@ Each ₹ is a range of 10 lakhs, so ₹₹ means 10-20 lakhs per annum and ₹�
 | Amazon      | AWS, Prime are best teams to work for, opportunity to grow quickly, some later move to Seattle, US | 27 | ecommerce, cloud | Public co. | Bengaluru, KA |
 | Tower Research Capital | Hires the best of the best | 30+ | Financial Services, Trading | Late | Gurgaon, NCR | 
 | Directi - Platform Engineer | Likes competitive programmers | 25+ | Hosting, Infra, Web | Late, started in 1998 | Mumbai, MH |
-| Samsung Research, Bengaluru - Research roles | Campus Hires from top colleges, worse work than Samsung Korea, better than Delhi, Noida | 25 | Electronics, Machine Learning, Software Engineering | Public co.     | Bengaluru, KA |
-| Flipkart      | Slow growing, reduced innovation compared to earlier years | 27 | ecommerce | Late | Bengaluru, KA |
-| Goldman Sachs     | likes to hire from top college | 30+ | banking | Public co. | Bengaluru, KA |
+| Samsung Research, Bengaluru - Research roles | usually better work than Samsung Delhi/Noida, work for Advanced Technologies Lab if you can, avoid Bixby | 25 | Electronics, Machine Learning, Software Engineering | Public co.     | Bengaluru, KA |
+| Flipkart      | Slow growing, reduced innovation compared to earlier years, best teams to work for are F-lite in apps, data infra, data science | 27 | ecommerce | Late | Bengaluru, KA |
+| Goldman Sachs     | likes to hire top GPA folk from top colleges | 30+ | banking | Public co. | Bengaluru, KA |
 | VISA     | likes to hire from top colleges | 20+ | payments, transation authentication | Public co. | Bengaluru, KA |
-| Microsoft IDC   | hires the best from several colleges, stable engineering teams | 15+ | windows, office, azure | Public co. | Hyderabad |
+| Microsoft | stable engineering teams, Microsoft Research is the best to work for, Microsoft IT the worst, IDC has good roles in Azure | 15+ | windows, office, azure | Public co. | IDC in Hyderabad, Research in BLR |
 
 
 ## Exciting Non-profits that I have heard about
