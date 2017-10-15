@@ -7,6 +7,7 @@ to join a company on a breakout trajectory.”
 
 — Sam Altman, President at Y Combinator
 ```
+[![HitCount](http://hits.dwyl.io/NirantK/breakoutlist-india.svg)](http://hits.dwyl.io/NirantK/breakoutlist-india)
 
 ### Why? 
 
@@ -25,9 +26,9 @@ Each ₹ is a range of 10 lakhs, so ₹₹ means 10-20 lakhs per annum and ₹�
 | Name        | Notes | Starting Pay (lakhs per annum, CTC) | Product | Stage         | Location |
 | :---:       | :---: | :---:   | :---:   | :---:         | :---:    |
 | ![Mad Street Den](https://imgee.s3.amazonaws.com/imgee/0bfb02e0a98c4c20a291b400c207f372.png) Mad Street Den | strong growth, well funded, one of the few companies to actually do AI | ₹₹ | Computer Vision for fashion under the brand [vue.ai](www.vue.ai) | Early | Chennai, TN |
-| ![Uber](https://breakoutlist.com/assets/logos/uber-logo.png "Uber India") Uber| Campus Hires from top colleges, fast growing team, 10/10 for growth | ₹₹ | Car Rides | Late     | Bengaluru, KA |
-| ![GoJek](https://imgee.s3.amazonaws.com/imgee/638b26370a794db38dfef92fa2bfe60f.png) GoJek| Young, new office in India | ₹₹ | Car, Bike Rides in East Asia | Late     | Bengaluru, KA |
-| ![Nutanix](https://www.burwood.com/images/partner_logos/Nutanix-Logo-500.jpg) Nutanix| Hires from top colleges, fast growing team | 20+ | Cloud Platform | Mid-to-late     | Bengaluru, KA |
+| ![Uber](https://breakoutlist.com/assets/logos/uber-logo.png "Uber India") Uber| Campus Hires from top colleges, fast growing team, 10/10 for growth, [work culture at uber](https://www.quora.com/What-is-it-like-to-work-at-Uber-in-India/answers/24729750?srid=p2LP) | ₹₹ | Car Rides | Late     | Bengaluru, KA |
+| ![GoJek](https://imgee.s3.amazonaws.com/imgee/638b26370a794db38dfef92fa2bfe60f.png) GoJek| Young, new office in India, [hiring process](https://blog.gojekengineering.com/go-jek-recruitment-process-58dbed5d8992), [working at Gojek]() | ₹₹ | Car, Bike Rides in East Asia | Late     | Bengaluru, KA |
+| ![Nutanix](https://www.burwood.com/images/partner_logos/Nutanix-Logo-500.jpg) Nutanix| Hires from top colleges, fast growing team, [working at Nutanix, India](https://www.quora.com/How-is-it-working-at-Nutanix-Bangalore/answers/7621710?srid=p2LP) | 20+ | Cloud Platform | Mid-to-late     | Bengaluru, KA |
 | ![Qubole](https://d0.awsstatic.com/logos/partners/qubole%20logo.png) Qubole | Campus Hires from top colleges, ex-Facebook co-founders | 10+ | Cloud Data Platform | Late     | Bengaluru, KA |
 | ![SocialCops](https://500.co/wp-content/uploads/2015/04/logo_sc.png) SocialCops | Data intelligence, socially motivated. Government, Enterprises are main customers | 7+ | Apps to collect data, visualization platforms | Mid-to-late     | Delhi, NCR |
 | ![PayTM](https://upload.wikimedia.org/wikipedia/commons/4/42/Paytm_logo.png) PayTM | Among India's most well known brands; building their Data Science teams | ₹₹ | ecommerce, payments, bank  | Mid | Bengaluru, KA |
