@@ -41,18 +41,18 @@ Each ₹ is a range of 10 lakhs, so ₹₹ means 10-20 lakhs per annum and ₹�
 | ![Postman](http://blog.getpostman.com/wp-content/uploads/2014/07/logo.png "Postman") Postman   | strong growth, [team](https://www.getpostman.com/team), [work culture at postman](./postman.md) | ₹ | developer tools; API Development environment | Early | Bengaluru, KA|
 | ![Helpshift](https://upload.wikimedia.org/wikipedia/en/b/b4/Helpshift_logo.png "Helpshift SDK") Helpshift | [work culture at helpshift](./helpshift.md) | ₹ | customer support platform, powerful SDK | -- | Bengaluru, KA |
 | ![HasGeek](https://hasgeek.com/_baseframe/img/logo-large.png "HasGeek") HasGeek | [work culture](./hasgeek.md) | ₹ | creates discussion spaces for geeks, organizes events and conferences | Early | Bengaluru, KA |
-| ![Udaan](https://udaan.com/images/udaan.png "Udaan") Udaan.com | ex-Flipkart cofounders, $10M in fundraise, [work culture at Udaan](./postman.md) | ₹₹ | marketplace for traders, wholesalers, and manufacturers | Early | Bengaluru, KA |
+| ![Udaan](https://udaan.com/images/udaan.png "Udaan") Udaan.com | ex-Flipkart cofounders, $10M in fundraise, [work culture at Udaan](./udaan.md) | ₹₹ | marketplace for traders, wholesalers, and manufacturers | Early | Bengaluru, KA |
 
 ## High Paying Dev Jobs
 
 | Name        | Notes | Starting Pay (lakhs per annum, CTC) | Product | Stage         | Location |
 | :---:       | :---: | :---:   | :---:   | :---:         | :---:    |
-| Amazon      | AWS, Prime are best teams to work for, opportunity to grow quickly, some later move to Seattle, US | 27 | ecommerce, cloud | Public co. | Bengaluru, KA |
+| Amazon      | AWS, Prime are best teams to work for, opportunity to grow quickly, some later move to Seattle, US; [press coverage on work culture](http://fortune.com/2015/08/17/amazon-new-york-times-workers/) | 27 | ecommerce, cloud | Public co. | Bengaluru, KA |
 | Tower Research Capital | Hires the best of the best | 30+ | Financial Services, Trading | Late | Gurgaon, NCR | 
-| Directi - Platform Engineer | Likes competitive programmers | 25+ | Hosting, Infra, Web | Late, started in 1998 | Mumbai, MH |
-| Samsung Research, Bengaluru - Research roles | usually better work than Samsung Delhi/Noida, work for Advanced Technologies Lab if you can, avoid Bixby | 25 | Electronics, Machine Learning, Software Engineering | Public co.     | Bengaluru, KA |
-| Flipkart      | Slow growing, reduced innovation compared to earlier years, best teams to work for are F-lite in apps, data infra, data science | 27 | ecommerce | Late | Bengaluru, KA |
-| Goldman Sachs     | likes to hire top GPA folk from top colleges | 30+ | banking | Public co. | Bengaluru, KA |
+| Directi - Platform Engineer | Likes competitive programmers, [work culture](https://www.quora.com/What-is-it-like-to-work-at-Directi) | 25+ | Hosting, Infra, Web | Late, started in 1998 | Mumbai, MH |
+| @Samsung Research, Bengaluru - Research roles | usually better work than Samsung Delhi/Noida, work for Advanced Technologies Lab if you can, avoid Bixby, IoT | 25 | Electronics, Machine Learning, Software Engineering | Public co.     | Bengaluru, KA |
+| Flipkart      | Slow growing, reduced innovation compared to earlier years, best teams to work for are F-lite in apps, data infra, data science; [work benefits](http://www.flipkartcareers.com/benefits.php) | 27 | ecommerce | Late | Bengaluru, KA |
+| Goldman Sachs     | likes to hire top GPA folk from top colleges, work for platform teams which work on data science pipelines | 30+ | banking | Public co. | Bengaluru, KA |
 | VISA     | likes to hire from top colleges | 20+ | payments, transation authentication | Public co. | Bengaluru, KA |
 | Microsoft | stable engineering teams, Microsoft Research is the best to work for, Microsoft IT the worst, IDC has good roles in Azure | 15+ | windows, office, azure | Public co. | IDC in Hyderabad, Research in BLR |
 
