@@ -55,6 +55,8 @@ Each ₹ is a range of 10 lakhs, so ₹₹ means 10-20 lakhs per annum and ₹�
 | Goldman Sachs     | likes to hire top GPA folk from top colleges, work for platform teams which work on data science pipelines | 30+ | banking | Public co. | Bengaluru, KA |
 | VISA     | likes to hire from top colleges | 20+ | payments, transation authentication | Public co. | Bengaluru, KA |
 | Microsoft | stable engineering teams, Microsoft Research is the best to work for, Microsoft IT the worst, IDC has good roles in Azure | 15+ | windows, office, azure | Public co. | IDC in Hyderabad, Research in BLR |
+| Sprinklr | stable engineering team, lot of people quit early because of work culture, small data science working on text and vision is the best | 25+ | social media, customer service tools | Public co. | Gurgaon, NCR |
+| Oracle | stable+old engineering team | 22, used to pay 12 | databases | Public co. | Benglauru, KA |
 
 
 ## Exciting Non-profits that I have heard about
