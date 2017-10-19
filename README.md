@@ -42,6 +42,7 @@ Each ₹ is a range of 10 lakhs, so ₹₹ means 10-20 lakhs per annum and ₹�
 | ![Helpshift](https://upload.wikimedia.org/wikipedia/en/b/b4/Helpshift_logo.png "Helpshift SDK") Helpshift | [work culture at helpshift](./helpshift.md) | ₹ | customer support platform, powerful SDK | Bengaluru, KA |
 | ![HasGeek](https://hasgeek.com/_baseframe/img/logo-large.png "HasGeek") HasGeek | [work culture](./hasgeek.md) | ₹ | creates discussion spaces for geeks, organizes events and conferences | Bengaluru, KA |
 | ![Udaan](https://udaan.com/images/udaan.png "Udaan") Udaan.com | ex-Flipkart cofounders, $10M in fundraise, [work culture at Udaan](./udaan.md) | ₹₹ | marketplace for traders, wholesalers, and manufacturers | Bengaluru, KA |
+| ![Hackerearth](https://hackerearth.global.ssl.fastly.net/static/hackerearth/images/logo/HE_logo.svg) | $4.5M in funding, technical founders with ex-Google experience, themselvers hackers | ₹₹ | helps its clients hire great programmers, the smart way| Bengaluru, KA | 
 
 ## High Paying Dev Jobs
 
