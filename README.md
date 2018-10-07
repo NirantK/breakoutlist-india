@@ -7,7 +7,7 @@ to join a company on a breakout trajectory.”
 
 — Sam Altman, President at Y Combinator
 ```
-![HitCount](http://hits.dwyl.io/NirantK/breakoutlist-india.svg)
+
 
 ### Why? 
 
@@ -32,12 +32,10 @@ Each ₹ is a range of 10 lakhs, so ₹₹ means 10-20 lakhs per annum and ₹�
 | ![Qubole](https://d0.awsstatic.com/logos/partners/qubole%20logo.png) Qubole | Campus Hires from top colleges, ex-Facebook co-founders, [work culture at qubole](./qubole.md) | 10+ | Cloud Data Platform | Bengaluru, KA |
 | ![SocialCops](https://socialcops.com/images/old/global/logo-socialcops-dark.svg) SocialCops | Data intelligence, socially motivated. Government, Enterprises are main customers, [work culture](https://blog.socialcops.com/inside-sc/what-its-like-to-work-at-socialcops/) | 7+ | Apps to collect data, visualization platforms | Delhi, NCR |
 | ![PayTM](https://upload.wikimedia.org/wikipedia/commons/4/42/Paytm_logo.png) PayTM | Among India's most well known brands; building their Data Science teams, [work culture at paytm](https://www.quora.com/What-does-it-feel-like-to-work-at-Paytm-Given-the-fact-that-Paytm-is-still-an-early-stage-company-how-can-it-be-compared-to-other-companies-in-terms-of-pay-work-environment-and-other-things) | ₹₹ | ecommerce, payments, bank | Bengaluru, KA |
-| ![Zomato](https://media.licdn.com/mpr/mpr/shrink_200_100/AAEAAQAAAAAAAAdxAAAAJGJiNmE5MGM4LWEzOTgtNDA5MC1hNTRlLTAxOGM0NTFiMTc0OA.png "Zomato") Zomato | India's international restaurant app, answer to Yelp, still growing, losing ground to Maps in some ways, [work culture at Zomato](https://www.quora.com/What-is-it-like-to-work-at-Zomato) has polarising reviews | ₹ | food menu, delivery, restaurant booking | NCR |
 | ![Freshworks Inc.](https://pbs.twimg.com/profile_images/872032496707289088/N_Vnszyk.jpg "Freshworks Inc") Freshworks | India's most valuable, and among the fastest growing SaaS companies; strong growth, [work culture video](https://www.youtube.com/watch?v=yU3fUztfCb0) | ₹ | --  | Chennai, TN |
 | ![ShareChat](https://lh3.googleusercontent.com/thDu1Z0Wf_JZSzq7i3iyw3av5T54KQMO3uSH_p5H1Pc92Njfn1T8sEP5_wPijVbWog=w300 "Sharechat") Sharechat   | Among the fastest growing social network companies in India; strong growth | ₹ | Social Network in Regional Indian Languages | Bengaluru, KA |
 | ![Niki.ai](https://d1qb2nb5cznatu.cloudfront.net/startups/i/728423-c4b43d84a2f4733555fed9de5ca1194a-medium_jpg.jpg "Niki AI") Niki.ai   | Emerging chatbot company for enterprise, presuambly does some NLP/ML | Unknown | Chatbots for recharge etc. | Bengaluru, KA|
 | ![Postman](http://blog.getpostman.com/wp-content/uploads/2014/07/logo.png "Postman") Postman   | strong growth, [team](https://www.getpostman.com/team), [work culture at postman](./postman.md) | ₹ | developer tools; API Development environment | Bengaluru, KA|
-| ![Helpshift](https://upload.wikimedia.org/wikipedia/en/b/b4/Helpshift_logo.png "Helpshift SDK") Helpshift | [work culture at helpshift](./helpshift.md) | ₹ | customer support platform, powerful SDK | Bengaluru, KA |
 | ![Udaan](https://udaan.com/images/udaan.png "Udaan") Udaan.com | ex-Flipkart cofounders, $10M in fundraise, [work culture at Udaan](./udaan.md) | ₹₹ | marketplace for traders, wholesalers, and manufacturers | Bengaluru, KA |
 | ![Hackerearth](https://hackerearth.global.ssl.fastly.net/static/hackerearth/images/logo/HE_logo.svg) | $4.5M in funding, technical founders with ex-Google experience, themselvers hackers, [team and work culture](https://www.hackerearth.com/team/) | ₹₹ | talent assessment for developers, testing platform, organizes hackathons | Bengaluru, KA | 
 
@@ -70,3 +68,4 @@ Having something to say? Say it [@NirantK on Twitter](https://twitter.com/@niran
 
 You can also open an issue or send a pull request if you have better information than me. 
 Do add proof of your info e.g. mention your Linkedin if you are the source on Uber info or another source
+![HitCount](http://hits.dwyl.io/NirantK/breakoutlist-india.svg)
