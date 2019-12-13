@@ -26,8 +26,6 @@ Each ₹ is a range of 10 lakhs, so ₹₹ means 10-20 lakhs per annum and ₹�
 | Name        | Notes | Starting Pay (lakhs per annum, CTC) | Product | Location |
 | :---:       | :---: | :---:                               | :---:   | :---:    |
 | ![Mad Street Den](https://imgee.s3.amazonaws.com/imgee/0bfb02e0a98c4c20a291b400c207f372.png) Mad Street Den | strong growth, well funded, one of the few companies to actually do AI | ₹₹ | Computer Vision for fashion under the brand [vue.ai](www.vue.ai) | Chennai, TN |
-| ![Uber](https://breakoutlist.com/assets/logos/uber-logo.png "Uber India") Uber| Campus Hires from top colleges, fast growing team, 10/10 for growth, [work culture at uber](https://www.quora.com/What-is-it-like-to-work-at-Uber-in-India/answers/24729750?srid=p2LP) | ₹₹ | Car Rides | Bengaluru, KA |
-| ![GoJek](https://imgee.s3.amazonaws.com/imgee/638b26370a794db38dfef92fa2bfe60f.png) GoJek| Young, new office in India, [hiring process](https://blog.gojekengineering.com/go-jek-recruitment-process-58dbed5d8992), [work culture at gojek](./gojek.md) | ₹₹ | Car, Bike Rides in East Asia | Bengaluru, KA |
 | ![Ather Energy](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/AtherLogo.jpg/2880px-AtherLogo.jpg) Ather Energy   | Has built a brand in India as a hardware/automobile business | ₹₹ | India's premier Electric 2 wheeler maker | Bengaluru, KA |
 | ![Nutanix](https://www.burwood.com/images/partner_logos/Nutanix-Logo-500.jpg) Nutanix| Hires from top colleges, fast growing team, [working at Nutanix, India](https://www.quora.com/How-is-it-working-at-Nutanix-Bangalore/answers/7621710?srid=p2LP) | 20+ | Cloud Platform | Bengaluru, KA |
 | ![Qubole](https://d0.awsstatic.com/logos/partners/qubole%20logo.png) Qubole | Campus Hires from top colleges, ex-Facebook co-founders, [work culture at qubole](./qubole.md) | 10+ | Cloud Data Platform | Bengaluru, KA |
@@ -36,6 +34,15 @@ Each ₹ is a range of 10 lakhs, so ₹₹ means 10-20 lakhs per annum and ₹�
 | ![Postman](http://blog.getpostman.com/wp-content/uploads/2014/07/logo.png "Postman") Postman   | strong growth, [team](https://www.getpostman.com/team), [work culture at postman](./postman.md) | ₹ | developer tools; API Development environment | Bengaluru, KA|
 | ![Udaan](https://udaan.com/images/udaan.png "Udaan") Udaan.com | ex-Flipkart cofounders, $10M in fundraise, [work culture at Udaan](./udaan.md) | ₹₹ | marketplace for traders, wholesalers, and manufacturers | Bengaluru, KA |
 | ![Hackerearth](https://hackerearth.global.ssl.fastly.net/static/hackerearth/images/logo/HE_logo.svg) | $4.5M in funding, technical founders with ex-Google experience, themselvers hackers, [team and work culture](https://www.hackerearth.com/team/) | ₹₹ | talent assessment for developers, testing platform, organizes hackathons | Bengaluru, KA | 
+
+## Non-Indian Companies
+Being defined by the Office HQ and Origin of Founding Team
+
+
+| Name        | Notes | Starting Pay (lakhs per annum, CTC) | Product | Location |
+| :---:       | :---: | :---:                               | :---:   | :---:    |
+| ![Uber](https://breakoutlist.com/assets/logos/uber-logo.png "Uber India") Uber| Campus Hires from top colleges, fast growing team, 10/10 for growth, [work culture at uber](https://www.quora.com/What-is-it-like-to-work-at-Uber-in-India/answers/24729750?srid=p2LP) | ₹₹ | Car Rides | Bengaluru, KA |
+| ![GoJek](https://imgee.s3.amazonaws.com/imgee/638b26370a794db38dfef92fa2bfe60f.png) GoJek| Young, new office in India, [hiring process](https://blog.gojekengineering.com/go-jek-recruitment-process-58dbed5d8992), [work culture at gojek](./gojek.md) | ₹₹ | Car, Bike Rides in East Asia | Bengaluru, KA |
 
 ## High Paying Dev Jobs
 
